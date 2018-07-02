@@ -60,4 +60,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-MIT License (c) [Firebase Japan User Group](https://firebase.asia)
+[MIT License](./LICENSE.md) (c) 2018 [Firebase Japan User Group](https://firebase.asia) by using [awesome-firebase](https://github.com/afonsopacifer/awesome-firebase) as reference.
