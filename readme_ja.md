@@ -39,12 +39,12 @@
 
 ## バインディング
 
-- ~[firebase/angularfire](https://github.com/firebase/angularfire)~ - The official AngularJS binding but [it doesn't support  Firestore yet](https://github.com/firebase/angularfire/issues/956).
-- [angular/angularfire2](https://github.com/angular/angularfire2) - The official Angular binding.
-- [vuejs/vuefire](https://github.com/vuejs/vuefire) - The official Vue.js binding.
-  - [posva/vuexfire](https://github.com/posva/vuexfire) - The Vuex binding by Vuefire maintainor.
-- [tylermcginnis/re-base](https://github.com/tylermcginnis/re-base) - The React.js binding.
-  - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - The Redux binding.
+- ~[firebase/angularfire](https://github.com/firebase/angularfire)~ - 公式のAngularJSバインディングだが[Firestoreはまだ非対応](https://github.com/firebase/angularfire/issues/956)．
+- [angular/angularfire2](https://github.com/angular/angularfire2) - 公式のAngularバインディング．
+- [vuejs/vuefire](https://github.com/vuejs/vuefire) - 公式のVue.jsバインディング．
+  - [posva/vuexfire](https://github.com/posva/vuexfire) - VuefireメンテナによるVuexバインディング.
+- [tylermcginnis/re-base](https://github.com/tylermcginnis/re-base) - React.jsバインディング．
+  - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Reduxバインディング．
 
 ## ヘルパー
 
