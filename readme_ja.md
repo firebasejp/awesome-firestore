@@ -5,12 +5,12 @@
 
 ## 目次
 
-- [ドキュメント](#docs)
-  - [リファレンス](#reference)
-- [バインディング](#bindings)
-- [ヘルパー](#helpers)
-- [GUI管理クライアント](#gui-management-clients)
-- [非対応(RTDBのみ対応)](#unsupportedonly-rtdb-is-supported)
+- [ドキュメント](#ドキュメント)
+  - [リファレンス](#リファレンス)
+- [バインディング](#バインディング)
+- [ヘルパー](#ヘルパー)
+- [GUI管理クライアント](#GUI管理クライアント)
+- [非対応(RTDBのみ対応)](#非対応(RTDBのみ対応))
 
 ## ドキュメント
 
@@ -59,7 +59,7 @@
 - [Chat SDK](https://chatsdk.co/) - A fully featured open source messaging framework for iOS and Android.
 
 
-## RTDBのみ対応
+## 非対応(RTDBのみ対応)
 
 firebase/angularfire, firebase/geofire-java, firebase/geofire-objc, firebase/geofire-js, firebase/firebase-util, firebase/firebase-jobdispatcher-android, firebase/firebase-jobdispatcher-ios, firebase/firepad
 
