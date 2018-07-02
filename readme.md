@@ -38,7 +38,7 @@
 
 ## Bindings 
 
-- ~[firebase/angularfire](https://github.com/firebase/angularfire)~ - The official AngularJS binding but [it doesn't support Cloud Firestore yet](https://github.com/firebase/angularfire/issues/956).
+- ~[firebase/angularfire](https://github.com/firebase/angularfire)~ - The official AngularJS binding but [it doesn't support  Firestore yet](https://github.com/firebase/angularfire/issues/956).
 - [angular/angularfire2](https://github.com/angular/angularfire2) - The official Angular binding.
 - [vuejs/vuefire](https://github.com/vuejs/vuefire) - The official Vue.js binding.
   - [posva/vuexfire](https://github.com/posva/vuexfire) - The Vuex binding by Vuefire maintainor.
@@ -47,8 +47,10 @@
 
 ## Helpers
 
-- [FirebaseUI for IOS](https://github.com/firebase/FirebaseUI-iOS)	- An official library of UI components for several Firebase features.
-- [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android)	- An official library of UI components for several Firebase features.
+- [firebase/FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android)	- An official library of UI components for several Firebase features.
+- [firebase/FirebaseUI-iOS](https://github.com/firebase/FirebaseUI-iOS)	- An official library of UI components for several Firebase features.
+- ~[firebase/geofire-js](https://github.com/firebase/geofire-js)~ - An official library for the RTDB that adds support for geospatial querying but [it doesn't support  Firestore yet](https://github.com/firebase/geofire-js/issues/163).
+
 
 ## GUI Management Clients
 
