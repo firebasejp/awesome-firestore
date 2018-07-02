@@ -47,6 +47,7 @@
 
 ## GUI Management Clients
 
+- [prescottprue/fireadmin](https://github.com/prescottprue/fireadmin) - Application for Managing Firebase App including support for multiple environments and data migrations.
 - [Chat SDK](https://chatsdk.co/) - A fully featured open source messaging framework for iOS and Android.
 
 
