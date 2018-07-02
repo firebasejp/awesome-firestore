@@ -1,6 +1,6 @@
 # Awesome Firestore [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of Cloud Firestore
+> A curated list of [Cloud Firestore](https://firebase.google.com/docs/firestore/)
 
 
 ## Contents
@@ -8,10 +8,32 @@
 - [Section](#section)
 - [Another Section](#another-section)
 
+## Docs
 
-## Section
+- [Cloud Firestore Guides](https://firebase.google.com/docs/firestore/)
 
-About this section. Optional. Keep this short and focus on the list.
+### Reference
+
+#### Client-side
+- [Android](https://firebase.google.com/docs/reference/android/com/google/firebase/firestore/package-summary)  
+- [iOS - Swift](https://firebase.google.com/docs/reference/swift/firebasefirestore/api/reference/Classes)  
+- [iOS - Objective-C](https://firebase.google.com/docs/reference/ios/firebasefirestore/api/reference/Classes)  
+- [Web](https://firebase.google.com/docs/reference/js/firebase.firestore)  
+- [REST](https://firebase.google.com/docs/firestore/reference/rest/)
+- [RPC](https://firebase.google.com/docs/firestore/reference/rpc/)
+
+#### Server-side
+- [Cloud Functions](https://firebase.google.com/docs/reference/functions/functions.firestore)  
+- [Node.js](https://cloud.google.com/nodejs/docs/reference/firestore/0.14.x/)
+- [Java](https://googlecloudplatform.github.io/google-cloud-java/google-cloud-clients/apidocs/index.html?com/google/cloud/firestore/package-summary.html)
+- [Python](https://google-cloud-python.readthedocs.io/en/latest/firestore/client.html)
+- [Go](https://godoc.org/cloud.google.com/go/firestore)
+
+#### Others
+- [Security Rules](https://firebase.google.com/docs/reference/rules/index-all)
+- [CLI](https://firebase.google.com/docs/cli/)
+
+## Bindings 
 
 - [List item](http://example.com)
 - [List item](http://example.com)
