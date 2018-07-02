@@ -10,6 +10,7 @@
 - [Bindings](#bindings)
 - [Helpers](#helpers)
 - [GUI Management Clients](#gui-management-clients)
+- [Unsupported(Only RTDB is Supported)](#unsupportedonly-rtdb-is-supported)
 
 ## Docs
 
