@@ -58,6 +58,10 @@
 - [Chat SDK](https://chatsdk.co/) - A fully featured open source messaging framework for iOS and Android.
 
 
+## Unsupported(Only RTDB is Supported)
+
+firebase/angularfire, firebase/geofire-java, firebase/geofire-objc, firebase/geofire-js, firebase/firebase-util, firebase/firebase-jobdispatcher-android, firebase/firebase-jobdispatcher-ios, firebase/firepad
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
