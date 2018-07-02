@@ -8,6 +8,7 @@
 - [Docs](#docs)
   - [Reference](#reference)
 - [Bindings](#bindings)
+- [Helpers](#helpers)
 - [GUI Management Clients](#gui-management-clients)
 
 ## Docs
@@ -44,6 +45,10 @@
 - [tylermcginnis/re-base](https://github.com/tylermcginnis/re-base) - The React.js binding.
   - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - The Redux binding.
 
+## Helpers
+
+- [FirebaseUI for IOS](https://github.com/firebase/FirebaseUI-iOS)	- An official library of UI components for several Firebase features.
+- [FirebaseUI for Android](https://github.com/firebase/FirebaseUI-Android)	- An official library of UI components for several Firebase features.
 
 ## GUI Management Clients
 
