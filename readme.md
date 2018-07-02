@@ -8,7 +8,7 @@
 - [Docs](#docs)
   - [Reference](#reference)
 - [Bindings](#bindings)
-- [Another Section](#another-section)
+- [GUI Management Clients](#gui-management-clients)
 
 ## Docs
 
@@ -45,12 +45,9 @@
   - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - The Redux binding.
 
 
-## Another Section
+## GUI Management Clients
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Chat SDK](https://chatsdk.co/) - A fully featured open source messaging framework for iOS and Android.
 
 
 ## Contribute
