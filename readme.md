@@ -5,7 +5,9 @@
 
 ## Contents
 
-- [Section](#section)
+- [Docs](#docs)
+  - [Reference](#reference)
+- [Bindings](#bindings)
 - [Another Section](#another-section)
 
 ## Docs
@@ -35,8 +37,12 @@
 
 ## Bindings 
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- ~[firebase/angularfire](https://github.com/firebase/angularfire)~ - The official AngularJS binding but [it doesn't support Cloud Firestore yet](https://github.com/firebase/angularfire/issues/956).
+- [angular/angularfire2](https://github.com/angular/angularfire2) - The official Angular binding.
+- [vuejs/vuefire](https://github.com/vuejs/vuefire) - The official Vue.js binding.
+  - [posva/vuexfire](https://github.com/posva/vuexfire) - The Vuex binding by Vuefire maintainor.
+- [tylermcginnis/re-base](https://github.com/tylermcginnis/re-base) - The React.js binding.
+  - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - The Redux binding.
 
 
 ## Another Section
